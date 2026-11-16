@@ -1,0 +1,12 @@
+❯ Use the AskUserQuestion tool to ask me which color I prefer, with options red
+  and blue. Do nothing else.
+
+  User answered: Red
+
+✻ Sautéed for 1s · done 12:31 PM
+
+───────────────────────────────────────────────────────── probe-prompt ─
+❯ 
+────────────────────────────────────────────────────────────────────────────────
+
+  ⏵⏵ auto mode on (shift+tab to cycle)
